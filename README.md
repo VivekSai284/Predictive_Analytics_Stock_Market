@@ -123,6 +123,7 @@ Random Forest showed better prediction accuracy compared to Linear Regression.
 ## Conclusion
 This project demonstrates how predictive analytics and machine learning techniques can be applied to stock market forecasting using historical financial data.
 
+---
 
 ## Author
 Vivek Sai
